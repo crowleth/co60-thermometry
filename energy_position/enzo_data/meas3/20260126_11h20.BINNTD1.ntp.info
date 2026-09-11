@@ -1,0 +1,16 @@
+analysed files:
+/Users/berest/Postdoc/R&D/RUN87/meas3/of3_260126112046/Data/20260126_11h20.BINNTD1   /Users/berest/Postdoc/R&D/RUN87/meas3/20260126_11h20.BINNTD1.edtrigger
+This file is describing ntp output of agronauts7.0a 
+Transfer function:
+ /Users/berest/Postdoc/R&D/RUN87/meas3/20260126_10h59.BINNTD1_edmean.bin
+ /Users/berest/Postdoc/R&D/RUN87/meas3/20260126_10h59.BINNTD1_spec.bin.dif
+ max_Jitter:0.000000
+ offset:0.000000
+param_Jitter:100.000000
+ Area : 20.000000,120.000000
+ Decay time: 100.000000
+ Rise time : 20.000000
+ baseline : 400.000000
+ mean time : 120.000000
+ ntps colums:
+ 1.trigger_ position 2.raw_amplitude 3.filtered_amplitude 4.baseline 5.baseline_RMS 6.correlation 7.TV 8.tvl 9.tvr 10.fitted_amplitude 11.fitted_baseline 12.rise_time 13.decay_time 14.delayed_amplitude 15.mean_time 16.area_raw_pulse 17.area_filtred_pulse 18.baseline_ampl 19.t10_cf
