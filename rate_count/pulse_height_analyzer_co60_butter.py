@@ -145,7 +145,7 @@ class ScopeSettingsPanel(tk.LabelFrame):
         self._build()
 
     def _build(self):
-        self.channel      = tk.IntVar(value=0)
+        self.channel      = tk.IntVar(value=1)
         self.trig_level   = tk.DoubleVar(value=0.15)
         self.edge         = tk.StringVar(value="Rise")
         self.sample_freq  = tk.DoubleVar(value=100e6)
